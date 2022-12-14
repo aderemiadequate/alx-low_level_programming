@@ -9,10 +9,10 @@
 int main(void)
 {
 _putchar('_');
-_purchar('p');
-_purchar('u');
-_purchar('r');
-_purchar('c');
+_putchar('p');
+_putchar('u');
+_putchar('r');
+_putchar('c');
 _putchar('h');
 _putchar('a');
 _putchar('r');
