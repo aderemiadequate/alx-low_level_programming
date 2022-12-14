@@ -2,6 +2,7 @@
 
 /**
  * main - Print _putchar
+ * is written by Remy dairo
  * Return: Always 0
 */
 int main(void)
